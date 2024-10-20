@@ -12,9 +12,8 @@ Pessoal que veio atrás do **GitHub Stats:** a API provavelmente saiu do ar ness
   <img align="center" alt="Elisson-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Elisson-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-##
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myElonChaves565&show_icons=true&theme=radical)
 <div> 
   <a href="https://github.com/myElonChaves565" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://br.linkedin.com/in/elisson-lopes-chaves-a86a19312" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
