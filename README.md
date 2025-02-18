@@ -1,7 +1,7 @@
 # 👋 Oii, eu sou Elisson Lopes Chaves!
 
 ## 🎓 Sobre Mim
-Sou um **técnico em informática surdo em formação**, especializado em **programação FullStack**. Com experiência em diversas linguagens e ferramentas, estou sempre em busca de novos desafios e conhecimentos. Acredito na importância da acessibilidade e na inclusão, e utilizo minhas habilidades para criar soluções que ajudem a todos.
+Sou um **técnico em informática em formação**, especializado em **programação FullStack**. Com experiência em diversas linguagens e ferramentas, estou sempre em busca de novos desafios e conhecimentos. Acredito na importância da acessibilidade e na inclusão, e utilizo minhas habilidades para criar soluções que ajudem a todos.
 
 ---
 
